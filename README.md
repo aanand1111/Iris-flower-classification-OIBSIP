@@ -12,9 +12,10 @@ Although the Scikit-learn library provides a dataset for iris flower classificat
 The Iris Flower Classification project successfully demonstrated the process of building a machine learning model to classify iris flowers into three species: Iris-setosa, Iris-versicolor, and Iris-virginica. The project involved several key steps, including data loading, exploratory data analysis (EDA), data preprocessing, model training, model evaluation, and result visualization.
 
 **Key Takeaways**:
-**Data Understanding**: The dataset was well-structured and contained no missing values, making it suitable for machine learning tasks.
-**Exploratory Data Analysis (EDA)**: Visualizations such as pair plots and heatmaps helped in understanding the relationships between different features and their distributions.
-**Data Preprocessing**: Encoding categorical variables and scaling features were essential steps to prepare the data for model training.
-**Model Training**: A Random Forest classifier was trained on the dataset, and it achieved perfect accuracy on the test set.
-**Model Evaluation**: The model's performance was evaluated using accuracy, confusion matrix, and classification report, all of which indicated excellent performance.
-**Result Visualization**: Visualizations such as the confusion matrix heatmap and feature importance bar chart provided insights into the model's predictions and the importance of different features.
+1. **Data Understanding**: The dataset was well-structured and contained no missing values, making it suitable for machine learning tasks.
+2. **Exploratory Data Analysis (EDA)**: Visualizations such as pair plots and heatmaps helped in understanding the relationships between different features and their distributions.
+3. **Data Preprocessing**: Encoding categorical variables and scaling features were essential steps to prepare the data for model training.
+4. **Model Training**: A Random Forest classifier was trained on the dataset, and it achieved perfect accuracy on the test set.
+5. **Model Evaluation**: The model's performance was evaluated using accuracy, confusion matrix, and classification report, all of which indicated excellent performance.
+6. **Result Visualization**: Visualizations such as the confusion matrix heatmap and feature importance bar chart provided insights into the model's predictions and the importance of different features. 
+
